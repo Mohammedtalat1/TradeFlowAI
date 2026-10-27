@@ -1,0 +1,36 @@
+## .NET Core
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+.vs/
+.idea/
+.vscode/
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rms/
+[Aa]rm64/
+build/
+
+## NuGet
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+*.nuget.props
+*.nuget.targets
+
+## Environment & Secrets
+appsettings.Development.json
+*.local.json
+.env
+
+## OS generated files
+.DS_Store
+Thumbs.db

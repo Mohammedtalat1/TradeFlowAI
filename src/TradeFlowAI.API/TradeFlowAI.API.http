@@ -1,0 +1,6 @@
+@TradeFlowAI.API_HostAddress = http://localhost:5252
+
+GET {{TradeFlowAI.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

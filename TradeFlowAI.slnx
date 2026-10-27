@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TradeFlowAI.API/TradeFlowAI.API.csproj" />
+    <Project Path="src/TradeFlowAI.Application/TradeFlowAI.Application.csproj" />
+    <Project Path="src/TradeFlowAI.Domain/TradeFlowAI.Domain.csproj" />
+    <Project Path="src/TradeFlowAI.Infrastructure/TradeFlowAI.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TradeFlowAI.UnitTests/TradeFlowAI.UnitTests.csproj" />
+  </Folder>
+</Solution>
